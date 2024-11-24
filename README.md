@@ -2,4 +2,4 @@
 
 *Testing the Net Banking Facility of Guru99 Bank
 
-**The testing process consists of four main parts:
+*The testing process consists of four main parts:
