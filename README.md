@@ -23,14 +23,14 @@ Testing modules associated with the Manager role.
 - Test cases are in the file "TestCaseSuite".
 - This mainly focuses on validating each input field required in each module.
 - In the Project Objectives sent by Guru99, only some modules are required to be tested: 
- - New Customer,
- - Edit Customer,
- - New Account,
- - Edit Account,
- - Delete Account,
- - Delete Customer,
- - Mini Statement,
- - Customized Statement.
+   1. New Customer,
+   2. Edit Customer,
+   3. New Account,
+   4. Edit Account,
+   5. Delete Account,
+   6. Delete Customer,
+   7. Mini Statement,
+   8. Customized Statement.
 - Other modules have their test cases written but have not been tested.
 - Test cases for the Customer role will be similar to those of the Manager role (not created yet).
 - Modules are only tested in the first two versions (v1 & v2)
