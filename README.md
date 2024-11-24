@@ -38,12 +38,12 @@ Testing modules associated with the Manager role.
 - Testing the integration of the modules and verifying their functionalities.
 
 - This is done for these modules associated with the Manager role: 
-1. New Customer,
-2. Edit Customer,
-3. New Account,
-4. Edit Account,
-5. Delete Account,
-6. Delete Customer,
-7. Mini Statement,
-8. Customized Statement.
+ 1. New Customer,
+ 2. Edit Customer,
+ 3. New Account,
+ 4. Edit Account,
+ 5. Delete Account,
+ 6. Delete Customer,
+ 7. Mini Statement,
+ 8. Customized Statement.
 - Integration is only tested in versions v2 & v3.
