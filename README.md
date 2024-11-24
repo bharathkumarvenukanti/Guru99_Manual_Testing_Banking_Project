@@ -13,3 +13,6 @@ Has access to all the modules.
 
 ### Customer role: 
 Accesses only some features of the system.
+## System Chart:
+Use Creately to create an overall system chart(From Guru99):
+![Guru99 Banking Website System](https://github.com/user-attachments/assets/0b2f6857-bb9b-4e9e-9020-040b87cade07)
