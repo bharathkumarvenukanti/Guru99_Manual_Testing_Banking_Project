@@ -20,9 +20,9 @@ Use Creately to create an overall system chart(From Guru99):
 ## 2. Unit Testing
 Testing modules associated with the Manager role.
 
-#000000 Test cases are in the file "TestCaseSuite".
-#000000 This mainly focuses on validating each input field required in each module.
-#000000 In the Project Objectives sent by Guru99, only some modules are required to be tested: 
+- Test cases are in the file "TestCaseSuite".
+- This mainly focuses on validating each input field required in each module.
+- In the Project Objectives sent by Guru99, only some modules are required to be tested: 
 - New Customer,
 - Edit Customer,
 - New Account,
@@ -31,6 +31,6 @@ Testing modules associated with the Manager role.
 - Delete Customer,
 - Mini Statement,
 - Customized Statement.
-#000000 Other modules have their test cases written but have not been tested.
-#000000 Test cases for the Customer role will be similar to those of the Manager role (not created yet).
-#000000 Modules are only tested in the first two versions (v1 & v2)
+- Other modules have their test cases written but have not been tested.
+- Test cases for the Customer role will be similar to those of the Manager role (not created yet).
+- Modules are only tested in the first two versions (v1 & v2)
