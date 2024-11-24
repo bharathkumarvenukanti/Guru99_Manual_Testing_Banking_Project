@@ -1,5 +1,5 @@
-#Guru99 Software Testing Project:
+# Guru99 Software Testing Project:
 
-##Testing the Net Banking Facility of Guru99 Bank
+## Testing the Net Banking Facility of Guru99 Bank
 
-The testing process consists of four main parts:
+* The testing process consists of four main parts:
