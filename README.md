@@ -47,3 +47,9 @@ Testing modules associated with the Manager role.
   7. Mini Statement,
   8. Customized Statement.
 - Integration is only tested in versions v2 & v3.
+## 4. System Testing
+Testing the system as a whole and verifying the modules in real scenarios.
+
+This is done for all modules and for both the Manager and Customer roles.
+In addition to that, verification of Webservice Software Interfaces for (Mini Statement, Balance Enquiry) modules is done as part of System Verification.
+System testing is only performed in versions v3 & v4.
