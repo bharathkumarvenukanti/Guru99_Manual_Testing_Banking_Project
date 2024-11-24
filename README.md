@@ -54,4 +54,4 @@ This is done for all modules and for both the Manager and Customer roles.
 In addition to that, verification of Webservice Software Interfaces for (Mini Statement, Balance Enquiry) modules is done as part of System Verification.
 System testing is only performed in versions v3 & v4.
 ## Conclusion
-Guru99's banking testing project offered a compact yet impactful intro to web testing practices. It deepened my understanding of test methodologies and their real-world application, setting the stage for future exploration in this dynamic field. I'm eager to expand my knowledge and apply it to increasingly complex challenges.
+Guru99's banking testing project provided a concise but profound introduction to web testing principles. It expanded my awareness of test procedures and their real-world applications, paving the way for further research in this dynamic sector. I'm keen to broaden my knowledge and apply it to more complicated problems.
